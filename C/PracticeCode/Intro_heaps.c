@@ -145,15 +145,15 @@ int main()
   printf("Min-Heap array: ");
   printArray(array, size);
 
-  delete(array, 3);
+  // delete(array, 3);
 
-  printf("After deleting an element: ");
+  // printf("After deleting an element: ");
 
-  printArray(array, size);
+  // printArray(array, size);
 
-  delete(array, 99);
+  // delete(array, 99);
 
-  printf("After deleting the last one: ");
+  // printf("After deleting the last one: ");
 
   printArray(array, size);
 
